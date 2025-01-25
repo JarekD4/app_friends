@@ -4,3 +4,4 @@ qdrant-client
 streamlit
 pydub
 plotly.express
+pycaret.clustering import load_model, predict_model
