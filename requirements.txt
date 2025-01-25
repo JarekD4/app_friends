@@ -4,4 +4,4 @@ qdrant-client
 streamlit
 pydub
 plotly.express
-pycaret.clustering
+pycaret
