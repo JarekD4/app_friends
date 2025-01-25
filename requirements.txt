@@ -3,5 +3,4 @@ python-dotenv
 qdrant-client
 streamlit
 pydub
-fpycaret.clustering
 plotly.express
